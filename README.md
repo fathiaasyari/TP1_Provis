@@ -18,5 +18,5 @@ Program ini merupakan program sederhana yang merepresentasikan makeup store meng
 
 ## Screenshoot Program
 
-![powershell]()
+![powershell](https://github.com/fathiaasyari/TP1_Provis/blob/76dd606467696c9e841cdee8247172c280ef537a/screenshoot/by%20powershell.png)
 
